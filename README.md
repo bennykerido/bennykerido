@@ -180,9 +180,9 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <br/>
 
 <a href="https://github.com/bennykerido">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bennykerido&hide=prs,contribs&show_icons=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bennykerido&hide=prs,contribs&show_icons=true&card_width=300" />
 </a>
 <a href="https://github.com/bennykerido">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennykerido&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennykerido&layout=compact&card_width=300" />
 </a>
 
