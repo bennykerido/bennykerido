@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div>
   <h4>Programming Languages:</h4>
       <a href="#">
