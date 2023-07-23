@@ -2,13 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 208.0 kB Used in GitHub's Storage 
+> 📦 208.1 kB Used in GitHub's Storage 
  > 
 > 🏆 207 Contributions in the Year 2023
  > 
@@ -45,17 +45,17 @@ Sunday                   301 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               10 hrs 27 mins      ████████████░░░░░░░░░░░░░   47.58 % 
-TypeScript               10 hrs              ███████████░░░░░░░░░░░░░░   45.51 % 
-SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-SourceMap                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               15 hrs 47 mins      █████████████░░░░░░░░░░░░   51.65 % 
+JavaScript               10 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   34.38 % 
+SCSS                     3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+SourceMap                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-WebStorm                 21 hrs 59 mins      █████████████████████████   100.00 % 
+WebStorm                 30 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 18:32:40 UTC
+ Last Updated on 23/07/2023 18:32:38 UTC
 <!--END_SECTION:waka-->
 
 <div>
