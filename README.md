@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,7 +75,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2023 18:32:48 UTC
+ Last Updated on 10/09/2023 18:32:52 UTC
 <!--END_SECTION:waka-->
 
 <div>
