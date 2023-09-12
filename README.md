@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,13 +10,13 @@
 
 > 📦 208.3 kB Used in GitHub's Storage 
  > 
-> 🏆 236 Contributions in the Year 2023
+> 🏆 237 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 34 Private Repositories 
+> 🔑 35 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -45,17 +45,17 @@ Sunday                   304 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               7 hrs 23 mins       █████████████░░░░░░░░░░░░   52.53 % 
-TypeScript               4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
-SCSS                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JavaScript               10 hrs 19 mins      ████████████████░░░░░░░░░   63.66 % 
+TypeScript               3 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+SCSS                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-WebStorm                 14 hrs 4 mins       █████████████████████████   100.00 % 
+WebStorm                 16 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2023 18:33:42 UTC
+ Last Updated on 12/09/2023 18:32:58 UTC
 <!--END_SECTION:waka-->
 
 <div>
