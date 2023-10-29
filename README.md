@@ -45,14 +45,13 @@ Sunday                   306 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-TypeScript               0 secs              ██████████████████████░░░   86.33 % 
-JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +71,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2023 18:32:58 UTC
+ Last Updated on 29/10/2023 18:33:11 UTC
 <!--END_SECTION:waka-->
 
 <div>
