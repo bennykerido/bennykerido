@@ -2,13 +2,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 209.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 262 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,13 +45,17 @@ Sunday                   306 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   8 mins              ████████████████████░░░░░   78.23 % 
+TypeScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2023 18:34:28 UTC
+ Last Updated on 31/10/2023 18:33:46 UTC
 <!--END_SECTION:waka-->
 
 <div>
