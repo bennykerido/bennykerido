@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,13 +45,14 @@ Sunday                   306 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Svelte                   9 mins              █████████████░░░░░░░░░░░░   53.47 % 
+TypeScript               8 mins              ████████████░░░░░░░░░░░░░   46.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +72,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2023 18:33:26 UTC
+ Last Updated on 11/11/2023 18:33:03 UTC
 <!--END_SECTION:waka-->
 
 <div>
