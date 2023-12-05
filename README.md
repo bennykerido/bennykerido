@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,13 +45,17 @@ Sunday                   308 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 7 mins        █████████████████████░░░░   85.95 % 
+SCSS                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 3 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 18:35:06 UTC
+ Last Updated on 05/12/2023 18:34:11 UTC
 <!--END_SECTION:waka-->
 
 <div>
