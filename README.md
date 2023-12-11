@@ -2,13 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 209.7 kB Used in GitHub's Storage 
+> 📦 209.8 kB Used in GitHub's Storage 
  > 
 > 🏆 263 Contributions in the Year 2023
  > 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2023 18:33:10 UTC
+ Last Updated on 11/12/2023 18:35:49 UTC
 <!--END_SECTION:waka-->
 
 <div>
