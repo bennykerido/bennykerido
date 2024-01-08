@@ -78,18 +78,18 @@ C++                      1 repo              █░░░░░░░░░░�
  Last Updated on 07/01/2024 18:33:09 UTC
 <!--END_SECTION:waka-->
 #### Skills:
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
 
 #### Tools:
-[![Tools](https://skillicons.dev/icons?i=react,nextjs,redux,nestjs,nodejs,express,sass,jquery&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=react,nextjs,redux,nestjs,nodejs,express,sass,jquery&perline=5&theme=dark)](https://skillicons.dev)
 
 #### Other:
-[![Other](https://skillicons.dev/icons?i=bun,git,firebase,idea,postman,netlify,mongodb,materialui,figma,docker,eclipse,ps,ai,xd&perline=5)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=bun,git,firebase,idea,postman,netlify,mongodb,materialui,figma,docker,eclipse,ps,ai,xd&perline=5&theme=dark)](https://skillicons.dev)
 
 #### Social:
-[![instagram](https://skillicons.dev/icons?i=instagram&perline=5)](https://www.instagram.com/bennykerido)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=5)](https://www.linkedin.com/in/bennykerido)
-[![Github](https://skillicons.dev/icons?i=github&perline=5)](https://www.github.com/bennykerido)
+[![instagram](https://skillicons.dev/icons?i=instagram&perline=5&theme=dark)](https://www.instagram.com/bennykerido)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&perline=5&theme=dark)](https://www.linkedin.com/in/bennykerido)
+[![Github](https://skillicons.dev/icons?i=github&perline=5&theme=dark)](https://www.github.com/bennykerido)
 
 <br/>
 <br/>
