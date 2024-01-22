@@ -2,9 +2,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,17 +45,17 @@ Sunday                   310 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               8 hrs 37 mins       ███████████████░░░░░░░░░░   60.89 % 
-SCSS                     4 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-textmate                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript               8 hrs 1 min         █████████████████░░░░░░░░   66.13 % 
+SCSS                     2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+SVG                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-WebStorm                 14 hrs 9 mins       █████████████████████████   100.00 % 
+WebStorm                 12 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2024 18:33:51 UTC
+ Last Updated on 22/01/2024 18:36:00 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
