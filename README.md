@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,17 +45,17 @@ Sunday                   310 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.88 % 
-TypeScript               6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-textmate                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Objective-C++            1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript               8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
+TypeScript               6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+textmate                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Objective-C++            1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-WebStorm                 23 hrs 17 mins      █████████████████████████   100.00 % 
+WebStorm                 23 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2024 18:33:01 UTC
+ Last Updated on 07/02/2024 18:32:51 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
