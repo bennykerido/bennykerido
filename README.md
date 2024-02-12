@@ -2,13 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 210.8 kB Used in GitHub's Storage 
+> 📦 210.9 kB Used in GitHub's Storage 
  > 
 > 🏆 24 Contributions in the Year 2024
  > 
@@ -45,17 +45,17 @@ Sunday                   310 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               7 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.85 % 
-TypeScript               2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-JSON                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-textmate                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Objective-C++            1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+JavaScript               7 hrs 23 mins       ██████████████░░░░░░░░░░░   54.88 % 
+TypeScript               2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Objective-C++            44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+textmate                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-WebStorm                 18 hrs 57 mins      █████████████████████████   100.00 % 
+WebStorm                 13 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2024 18:33:06 UTC
+ Last Updated on 12/02/2024 18:33:15 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
