@@ -2,15 +2,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 211.4 kB Used in GitHub's Storage 
- > 
-> 🏆 106 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,17 +43,17 @@ Sunday                   314 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               7 hrs 15 mins       ████████████████████████░   95.44 % 
-SCSS                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JavaScript               6 hrs 8 mins        ████████████████████████░   94.69 % 
+SCSS                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 SourceMap                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 35 mins       █████████████████████████   100.00 % 
+WebStorm                 6 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +73,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2024 18:34:21 UTC
+ Last Updated on 30/04/2024 18:36:33 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
