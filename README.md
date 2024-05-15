@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-
+[!["Buy Me A Coffee"](https://buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2019%20mins-blue)
 
