@@ -2,13 +2,15 @@
 
 [!["Benny Kerido on Bento.me"](https://img.shields.io/badge/Benny%20Kerido-purple?logo=bento)](https://www.bento.me/bennykerido)&nbsp;[!["Buy Me A Coffee"](https://img.shields.io/badge/%F0%9F%8D%BABuy%20Me%20A%20Beer-black.svg)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 212.5 kB Used in GitHub's Storage 
+> 📦 212.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 228 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -19,21 +21,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌆 Daytime                543 commits         █████████░░░░░░░░░░░░░░░░   35.05 % 
-🌃 Evening                693 commits         ███████████░░░░░░░░░░░░░░   44.74 % 
-🌙 Night                  154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+🌆 Daytime                543 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌃 Evening                705 commits         ███████████░░░░░░░░░░░░░░   45.16 % 
+🌙 Night                  154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Friday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Saturday                 340 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-Sunday                   337 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Monday                   205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Thursday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Friday                   235 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Saturday                 352 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Sunday                   337 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
 ```
 
 
@@ -73,7 +75,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2024 18:36:34 UTC
+ Last Updated on 18/05/2024 18:33:44 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
