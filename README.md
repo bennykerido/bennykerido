@@ -10,6 +10,8 @@
 
 > 📦 215.5 kB Used in GitHub's Storage 
  > 
+> 🏆 313 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -43,13 +45,16 @@ Sunday                   402 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               48 mins             ██████████████████░░░░░░░   72.95 % 
+SCSS                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -69,7 +74,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:38:17 UTC
+ Last Updated on 14/06/2024 18:38:26 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
