@@ -2,7 +2,7 @@
 
 [!["Benny Kerido on Bento.me"](https://img.shields.io/badge/Benny%20Kerido-purple?logo=bento)](https://www.bento.me/bennykerido)&nbsp;[!["Buy Me A Coffee"](https://img.shields.io/badge/%F0%9F%8D%BABuy%20Me%20A%20Beer-black.svg)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,16 +43,14 @@ Sunday                   402 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               1 hr 28 mins        ████████████████████████░   95.31 % 
-SCSS                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               4 mins              ████████████████████████░   96.89 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 32 mins        █████████████████████████   100.00 % 
+WebStorm                 4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -72,7 +70,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2024 18:35:52 UTC
+ Last Updated on 22/07/2024 18:39:08 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
