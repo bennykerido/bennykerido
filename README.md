@@ -2,7 +2,7 @@
 
 [!["Benny Kerido on Bento.me"](https://img.shields.io/badge/Benny%20Kerido-purple?logo=bento)](https://www.bento.me/bennykerido)&nbsp;[!["Buy Me A Coffee"](https://img.shields.io/badge/%F0%9F%8D%BABuy%20Me%20A%20Beer-black.svg)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,17 +43,17 @@ Sunday                   430 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               8 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
-TypeScript               7 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
-SCSS                     2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TypeScript               7 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.08 % 
+JavaScript               6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
+SCSS                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Text                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-WebStorm                 19 hrs 8 mins       █████████████████████████   100.00 % 
+WebStorm                 18 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +73,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2024 18:41:52 UTC
+ Last Updated on 13/09/2024 18:41:28 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
