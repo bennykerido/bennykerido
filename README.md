@@ -2,7 +2,7 @@
 
 [!["Benny Kerido on Bento.me"](https://img.shields.io/badge/Benny%20Kerido-purple?logo=bento)](https://www.bento.me/bennykerido)&nbsp;[!["Buy Me A Coffee"](https://img.shields.io/badge/%F0%9F%8D%BABuy%20Me%20A%20Beer-black.svg)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,18 +43,18 @@ Sunday                   430 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-PHP                      1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-TypeScript               1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-textmate                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-CSS                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+PHP                      1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   38.43 % 
+TypeScript               28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 5 mins        █████████████████░░░░░░░░   66.82 % 
-PhpStorm                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+PhpStorm                 1 hr 32 mins        █████████████░░░░░░░░░░░░   50.02 % 
+WebStorm                 1 hr 32 mins        ████████████░░░░░░░░░░░░░   49.98 % 
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +74,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:43:20 UTC
+ Last Updated on 21/02/2025 18:42:26 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
