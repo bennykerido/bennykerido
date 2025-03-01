@@ -79,7 +79,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
  Last Updated on 28/02/2025 18:43:36 UTC
 <!--END_SECTION:waka-->
 #### Skills:
-[![Skills](https://skillicons.dev/icons?i=js,ts,html,css,py&perline=5&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,html,swift,kotlin,css,py&perline=5&theme=dark)](https://skillicons.dev)
 
 #### Tools:
 [![Tools](https://skillicons.dev/icons?i=react,nextjs,redux,nestjs,nodejs,express,sass,jquery&perline=5&theme=dark)](https://skillicons.dev)
