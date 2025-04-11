@@ -43,17 +43,13 @@ Sunday                   430 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               2 hrs 24 mins       ██████████████████░░░░░░░   70.59 % 
-JSON                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-textmate                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 3 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,7 +69,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 18:43:21 UTC
+ Last Updated on 11/04/2025 18:45:24 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,swift,kotlin,py&perline=5&theme=dark)](https://skillicons.dev)
