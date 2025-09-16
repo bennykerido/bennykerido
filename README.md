@@ -2,15 +2,11 @@
 
 [!["Benny Kerido on Bento.me"](https://img.shields.io/badge/Benny%20Kerido-purple?logo=bento)](https://www.bento.me/bennykerido)&nbsp;[!["Buy Me A Coffee"](https://img.shields.io/badge/%F0%9F%8D%BABuy%20Me%20A%20Beer-black.svg)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 217.2 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -18,46 +14,6 @@
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-🌆 Daytime                741 commits         ████████░░░░░░░░░░░░░░░░░   33.56 % 
-🌃 Evening                1082 commits        ████████████░░░░░░░░░░░░░   49.00 % 
-🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   378 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Tuesday                  277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Wednesday                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Thursday                 211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Friday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 435 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Sunday                   430 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jerusalem
-
-💬 Programming Languages: 
-JavaScript               6 hrs 16 mins       ███████████████░░░░░░░░░░   61.23 % 
-TypeScript               1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-textmate                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Swift                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-
-🔥 Editors: 
-WebStorm                 10 hrs 14 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      10 hrs 14 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,7 +31,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:45:27 UTC
+ Last Updated on 16/09/2025 18:44:55 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,swift,kotlin,py&perline=5&theme=dark)](https://skillicons.dev)
