@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C608%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -45,16 +45,16 @@ Sunday                   430 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               30 mins             ██████████████████░░░░░░░   73.83 % 
-JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               1 hr 12 mins        ██████████████████░░░░░░░   73.99 % 
+Text                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-WebStorm                 41 mins             █████████████████████████   100.00 % 
+WebStorm                 1 hr 37 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +74,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2025 18:45:59 UTC
+ Last Updated on 10/10/2025 18:45:05 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,swift,kotlin,py&perline=5&theme=dark)](https://skillicons.dev)
