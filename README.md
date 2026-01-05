@@ -2,9 +2,9 @@
 
 [!["Benny Kerido on Bento.me"](https://img.shields.io/badge/Benny%20Kerido-purple?logo=bento)](https://www.bento.me/bennykerido)&nbsp;[!["Buy Me A Coffee"](https://img.shields.io/badge/%F0%9F%8D%BABuy%20Me%20A%20Beer-black.svg)](https://www.buymeacoffee.com/bennykerido)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C748%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,17 +45,17 @@ Sunday                   432 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               6 hrs 16 mins       █████████████░░░░░░░░░░░░   51.80 % 
-SCSS                     4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.10 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JavaScript               8 hrs 35 mins       ██████████████░░░░░░░░░░░   57.30 % 
+SCSS                     5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-WebStorm                 12 hrs 6 mins       █████████████████████████   100.00 % 
+WebStorm                 15 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:49:17 UTC
+ Last Updated on 05/01/2026 18:54:07 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,swift,kotlin,py&perline=5&theme=dark)](https://skillicons.dev)
