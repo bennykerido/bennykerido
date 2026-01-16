@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C782%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -45,17 +45,17 @@ Sunday                   432 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jerusalem
 
 💬 Programming Languages: 
-JavaScript               16 hrs 3 mins       ██████████████████░░░░░░░   72.30 % 
-SCSS                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Groovy                   1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-textmate                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+JavaScript               18 hrs 53 mins      ███████████████████░░░░░░   76.00 % 
+SCSS                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+textmate                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-WebStorm                 22 hrs 13 mins      █████████████████████████   100.00 % 
+WebStorm                 24 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +75,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 19:00:09 UTC
+ Last Updated on 16/01/2026 18:54:02 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,swift,kotlin,py&perline=5&theme=dark)](https://skillicons.dev)
