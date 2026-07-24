@@ -18,6 +18,42 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+🌆 Daytime                795 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
+🌃 Evening                1111 commits        ████████████░░░░░░░░░░░░░   48.20 % 
+🌙 Night                  183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Tuesday                  287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Wednesday                223 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Thursday                 229 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Friday                   269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Saturday                 472 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+Sunday                   432 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jerusalem
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -35,7 +71,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bennykerido/bennykerido/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:54:10 UTC
+ Last Updated on 24/07/2026 19:53:44 UTC
 <!--END_SECTION:waka-->
 #### Skills:
 [![Skills](https://skillicons.dev/icons?i=js,ts,html,css,swift,kotlin,py&perline=5&theme=dark)](https://skillicons.dev)
